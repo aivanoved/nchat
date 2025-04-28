@@ -1,0 +1,5 @@
+!justfile
+
+# pixi environments
+.pixi
+*.egg-info
